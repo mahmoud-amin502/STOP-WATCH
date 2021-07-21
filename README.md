@@ -1,0 +1,2 @@
+# STOP-WATCH
+A 6 digits counter count every 1 second using Timer1 CTC Mode to count, displaying the result on an LCD, with INT0(Falling edge using the internal pull up) applied to a button to reset the stop watch, INT1 (raising edge using the external pull down) applied to a button to pause the stop watch and INT2(Falling edge using the internal pull up) applied to a button to resume the stop watch
